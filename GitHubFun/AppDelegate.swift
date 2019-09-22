@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Nicholas Trofin on 22/09/2019.
-//  Copyright © 2019 Nicholas Trofin. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
